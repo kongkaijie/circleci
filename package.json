@@ -1,0 +1,22 @@
+{
+  "name": "circlecidemo",
+  "version": "1.0.0",
+  "description": "这是一个demo",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongkaijie/circleci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongkaijie/circleci/issues"
+  },
+  "homepage": "https://github.com/kongkaijie/circleci#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
